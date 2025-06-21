@@ -1,0 +1,7 @@
+C:\Users\abcde\source\repos\konversibiner2\konversibiner2\obj\Debug\konversibiner2.csproj.AssemblyReference.cache
+C:\Users\abcde\source\repos\konversibiner2\konversibiner2\obj\Debug\konversibiner2.csproj.CoreCompileInputs.cache
+C:\Users\abcde\source\repos\konversibiner2\konversibiner2\bin\Debug\konversibiner2.exe.config
+C:\Users\abcde\source\repos\konversibiner2\konversibiner2\bin\Debug\konversibiner2.exe
+C:\Users\abcde\source\repos\konversibiner2\konversibiner2\bin\Debug\konversibiner2.pdb
+C:\Users\abcde\source\repos\konversibiner2\konversibiner2\obj\Debug\konversibiner2.exe
+C:\Users\abcde\source\repos\konversibiner2\konversibiner2\obj\Debug\konversibiner2.pdb
